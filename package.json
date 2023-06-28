@@ -1,6 +1,6 @@
 {
   "name": "base64url-encode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proper zero-dependency base64 url-safe encoding function that doesn't depend on Node.js Buffer.",
   "main": "base64urlencode.js",
   "repository": "https://github.com/rareweave/base64url-encode",
